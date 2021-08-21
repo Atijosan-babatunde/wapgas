@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Aug 2021 05:38:13 at http://petrogas-energy.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://petrogas-energy.com -O1 "C:\Users\hp\Documents\Projects\Html\Petrogas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:47:50	Warning: 	Retry after error -4 (Incorrect length (1224071 Bytes, 7094011 expected)) at link petrogas-energy.com/wp-content/uploads/2018/09/Petrogas-Profile.pdf (from petrogas-energy.com/)
+05:48:09	Warning: 	Retry after error -4 (Incorrect length (253070 Bytes, 270447 expected)) at link petrogas-energy.com/wp-content/themes/salient/css/fonts/OpenSansBold-webfont.svg (from petrogas-energy.com/wp-content/themes/salient/style.css?ver=9.0)
+05:48:13	Warning: 	Retry after error -4 (Connect Error) at link petrogas-energy.com/wp-content/themes/salient/img/icons/loading-white-bg.gif (from petrogas-energy.com/wp-content/themes/salient/style.css?ver=9.0)
+05:48:16	Error: 	"Not Found" (404) at link petrogas-energy.com/wp-content/themes/salient/img/icons/social/vimeo-header-black.png (from petrogas-energy.com/wp-content/themes/salient/style.css?ver=9.0)
+05:48:16	Error: 	"Not Found" (404) at link petrogas-energy.com/wp-content/themes/salient/img/icons/social/behance-header-black.png (from petrogas-energy.com/wp-content/themes/salient/style.css?ver=9.0)
+05:48:16	Warning: 	Retry after error -2 (Receive Time Out) at link petrogas-energy.com/wp-content/themes/salient/css/fonts/icomoon.eot (from petrogas-energy.com/wp-content/themes/salient/style.css?ver=9.0)
+05:48:19	Warning: 	Moved Permanently for petrogas-energy.com/?p=3189
+05:48:19	Warning: 	File has moved from petrogas-energy.com/?p=3189 to http://petrogas-energy.com/about-us/
+05:48:19	Warning: 	Moved Permanently for petrogas-energy.com/?p=3221
+05:48:19	Warning: 	File has moved from petrogas-energy.com/?p=3221 to http://petrogas-energy.com/operations/
+05:50:06	Warning: 	Moved Permanently for petrogas-energy.com/?p=3289
+05:50:06	Warning: 	File has moved from petrogas-energy.com/?p=3289 to http://petrogas-energy.com/facilities/
+05:50:06	Warning: 	Moved Permanently for petrogas-energy.com/?p=2040
+05:50:06	Warning: 	File has moved from petrogas-energy.com/?p=2040 to http://petrogas-energy.com/blog-standard/
+05:50:06	Warning: 	Moved Permanently for petrogas-energy.com/?p=2092
+05:50:06	Warning: 	File has moved from petrogas-energy.com/?p=2092 to http://petrogas-energy.com/contact/
+05:53:38	Warning: 	Moved Permanently for petrogas-energy.com/?p=3318
+05:53:38	Warning: 	File has moved from petrogas-energy.com/?p=3318 to http://petrogas-energy.com/midstream/
+05:53:38	Warning: 	Moved Permanently for petrogas-energy.com/?p=3311
+05:53:38	Warning: 	File has moved from petrogas-energy.com/?p=3311 to http://petrogas-energy.com/upstream/
+05:53:38	Warning: 	Moved Permanently for petrogas-energy.com/?p=3322
+05:53:38	Warning: 	File has moved from petrogas-energy.com/?p=3322 to http://petrogas-energy.com/downstream/
+05:53:38	Warning: 	Moved Permanently for petrogas-energy.com/?p=3339
+05:53:38	Warning: 	File has moved from petrogas-energy.com/?p=3339 to http://petrogas-energy.com/finance/
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 25 seconds : 235 links scanned, 219 files written (23183491 bytes overall) [22114069 bytes received at 23907 bytes/sec], 2064170 bytes transferred using HTTP compression in 13 files, ratio 15%, 3.3 requests per connection
+(2 errors, 22 warnings, 0 messages)
